@@ -1,4 +1,4 @@
-Introduction
+## Introduction
 The Book Library Application is a simple PHP-based web application that allows users to manage a library of books. Users can add, remove, and view registered books, as well as manage loans.
 
 Features
